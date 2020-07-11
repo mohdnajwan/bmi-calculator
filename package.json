@@ -1,0 +1,12 @@
+{
+  "name": "@mohdnajwan/bmi-calculator",
+  "version": "1.0.1",
+  "description": "BMI calculator that accepts metric and imperial units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Najwan",
+  "license": "MIT",
+  "keywords": ["bmi-calculator","mohdnajwan","bmi calculator"]
+}
